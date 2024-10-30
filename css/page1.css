@@ -28,13 +28,17 @@ nav ul li a {
 
 .maincontent {
   float: left;
-  width: 60%
+  width: 60%;
   text-align: center;
-  padding: 20px
+  padding: 20px;
+}
+
+section ul {
+  list-style-type: none;
 }
 
 img {
-  width: 30%
+  width: 30%;
   float: right;
   padding: 10px;
 }
