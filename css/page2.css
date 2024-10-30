@@ -1,7 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-image: url(../media/cubes.jpg);
-  background-repeat: repeat-x;
 }
 
 header h1 {
