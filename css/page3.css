@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: gray;
   color: white;
+  size: 30px;
 }
 
 header h1 {
@@ -28,7 +29,6 @@ nav ul li {
   width: 25%;
   float: left;
   text-align: center;
-  size: 30px;
   padding: 20px;
 }
 
@@ -36,7 +36,6 @@ nav ul li {
   width: 25%;
   float: right;
   text-align: center;
-  size: 30px;
   padding: 20px;
 }
 
