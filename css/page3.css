@@ -25,18 +25,18 @@ nav ul li {
 }
 
 .lefttext {
-  width: 30%;
+  width: 25%;
   float: left;
   text-align: center;
-  size: 200%;
+  size: 30px;
   padding: 20px;
 }
 
 .righttext {
-  width: 30%;
+  width: 25%;
   float: right;
   text-align: center;
-  size: 200%;
+  size: 30px;
   padding: 20px;
 }
 
