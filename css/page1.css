@@ -3,10 +3,6 @@ body {
   background-color: gray;
 }
 
-header {
-  margin-bottom: 20px;
-}
-
 header h1 {
   font-size: 250%;
   color: white;
@@ -17,7 +13,7 @@ nav ul {
   display: flex;
   justify-content: center;
   list-style-type: none;
-  background-color: lightblue;
+  background-color: blue;
   padding: 15px;
   border-radius: 12px;
 }
@@ -28,4 +24,15 @@ nav ul li {
 
 nav ul li a {
   color: white;
+}
+
+.maincontent {
+  float: left;
+  text-align: center;
+  padding: 20px
+}
+
+img {
+  float: right;
+  padding: 10px;
 }
