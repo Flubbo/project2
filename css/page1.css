@@ -4,7 +4,7 @@ body {
 }
 
 header h1 {
-  font-size: 250%;
+  font-size: 350%;
   color: white;
   text-align: center;
 }
@@ -41,4 +41,10 @@ img {
   width: 30%;
   float: right;
   margin: 30px;
+}
+
+h2 strong {
+  font-size: 200%;
+  font-weight: 1000;
+  background-color: lightblue;
 }
