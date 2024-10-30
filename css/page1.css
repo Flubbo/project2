@@ -27,10 +27,14 @@ nav ul li a {
   color: white;
 }
 
-section .maincontent{
+body section .maincontent{
   float: left;
   width: 60%;
   text-align: center;
+}
+
+section h2 strong {
+  color: white;
 }
 
 section ul {
