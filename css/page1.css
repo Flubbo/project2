@@ -30,7 +30,6 @@ nav ul li a {
   float: left;
   width: 60%;
   text-align: center;
-  padding: 2.5%;
 }
 
 section ul {
@@ -40,5 +39,4 @@ section ul {
 img {
   width: 30%;
   float: right;
-  padding: 2.5%;
 }
