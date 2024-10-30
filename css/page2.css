@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: gray;
+  background-image: url(../media/cubes.jpg);
+  background-repeat: repeat-x;
 }
 
 header h1 {
@@ -26,3 +27,4 @@ nav ul li {
 nav ul li a, section h2 {
   color: white;
 }
+
