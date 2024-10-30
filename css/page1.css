@@ -27,7 +27,7 @@ nav ul li a {
   color: white;
 }
 
-section .maincontent {
+section .maincontent, section .title {
   float: left;
   width: 60%;
   text-align: center;
