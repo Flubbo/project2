@@ -26,11 +26,10 @@ nav ul li a {
   color: white;
 }
 
-section {
+section .maincontent {
   float: left;
   width: 60%;
   text-align: center;
-  margin: 10px;
 }
 
 section ul {
