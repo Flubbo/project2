@@ -30,7 +30,7 @@ nav ul li a {
 .maincontent {
   float: left;
   width: 60%;
-  text-align: center !important;
+  text-align: center;
 }
 
 section h2 {
@@ -44,5 +44,5 @@ section ul {
 img {
   width: 30%;
   float: right;
-  margin: 30px;
+  margin: 15px;
 }
