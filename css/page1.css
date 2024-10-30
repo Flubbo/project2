@@ -16,6 +16,7 @@ nav ul {
   background-color: lightblue;
   padding: 15px;
   border-radius: 12px;
+  width: 100%;
 }
 
 nav ul li {
